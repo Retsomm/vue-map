@@ -1,4 +1,4 @@
-# vue-map
+# vue-map(https://retsomm.github.io/vue-map/)
 
 This template should help get you started developing with Vue 3 in Vite.
 
